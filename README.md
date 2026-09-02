@@ -1,9 +1,7 @@
 Data Management Operations Analytics
 Overview
 
-Dashboard Preview
-Executive Overview
-Főoldal.png
+![Executive Overview] (Főoldal.png)
 
 Data Management Operations Analytics is a business intelligence solution designed to provide end-to-end visibility into operational workload, resource allocation, process performance and client demand.
 
