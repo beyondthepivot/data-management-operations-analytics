@@ -51,7 +51,7 @@ Technologies
 - DAX
 
 Data Model
-![Data Model](model-view)
+![Data Model](model-view.png)
 
 Skills Demonstrated:
 - Power BI Dashboard Development
