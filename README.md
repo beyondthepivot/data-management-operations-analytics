@@ -49,3 +49,18 @@ Technologies
 - Power Query
 - Power BI
 - DAX
+
+Data Model
+![Data Model](model-view)
+
+Skills Demonstrated:
+- Power BI Dashboard Development
+- Power Query ETL
+- Data Modeling
+- DAX Calculations
+- Capacity Analysis
+- Operational Analytics
+- Client Demand Analysis
+- Business Intelligence Reporting
+
+
