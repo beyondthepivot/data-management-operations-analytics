@@ -1,11 +1,12 @@
 Data Management Operations Analytics
-Overview
 
-![Executive Overview](Fooldal.png)
+Overview
 
 Data Management Operations Analytics is a business intelligence solution designed to provide end-to-end visibility into operational workload, resource allocation, process performance and client demand.
 
 The project consolidates operational data from multiple business processes into a centralized Power BI reporting environment, enabling both management-level monitoring and operational decision-making.
+
+![Executive Overview](Fooldal.png)
 
 Business Objective
 
@@ -38,6 +39,10 @@ Key Capabilities
 - Operational KPI Reporting
 - Performance Analytics
 - Trend Monitoring
+
+![Productivity](analyst.png)
+![Process](process.png)
+![Client](client.png)
 
 Technologies
 - Monday.com
