@@ -1,11 +1,20 @@
 Data Management Operations Analytics
 Overview
 
-This project presents an end-to-end operational analytics solution built using Monday.com, Power Query and Power BI.
+Data Management Operations Analytics is a business intelligence solution designed to provide end-to-end visibility into operational workload, resource allocation, process performance and client demand.
 
-Objective
+The project consolidates operational data from multiple business processes into a centralized Power BI reporting environment, enabling both management-level monitoring and operational decision-making.
 
-Transform operational data from multiple sources into meaningful insights, enabling performance monitoring, workload visibility and trend analysis.
+Business Objective
+
+The solution was designed to answer the following operational questions:
+- How does workload evolve over time?
+- Which analysts and teams carry the highest workload?
+- Which operational processes consume the most capacity?
+- How is workload distributed across clients?
+- Which clients generate the highest operational demand?
+- How does workload vary throughout the month?
+- How are resources utilized across operational processes?
 
 Solution Architecture
   Monday.com / Operational Trackers / Source Files
